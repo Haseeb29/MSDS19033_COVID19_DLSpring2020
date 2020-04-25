@@ -34,6 +34,7 @@ Testing:
 
     
   Accuracy = 59%
+  
   F1 Score = 44%
   
 ###### Res-Net18:
@@ -51,6 +52,7 @@ Validation
   Accuracy = 91%
   
   F1 Score = 89%
+  
 Testing
 
   Confusion Matrix:
@@ -80,6 +82,7 @@ Validation
 Testing
 
   Confusion Matrix:
+  
    ![](images/vgg4.png)
 
   Accuracy = 59%
