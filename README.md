@@ -16,7 +16,7 @@ https://drive.google.com/open?id=1TFjIwvYr7faSxU7sfkuofxHjJRdPB51w
 
 No. of Layers fined tuned = All FC layers
 
-Validation:
+- Validation:
   
   Confusion matrix:
   
@@ -26,7 +26,7 @@ Validation:
   
   F1 Score = 32%
   
-Testing:
+- Testing:
 
   Confusion Matrix:
     
@@ -42,7 +42,7 @@ Testing:
 
 No. of Layers fined tuned = All FC layers
 
-Validation
+- Validation
 
   Confusion matrix:
     
@@ -53,7 +53,7 @@ Validation
   
   F1 Score = 89%
   
-Testing
+- Testing
 
   Confusion Matrix:
   
@@ -63,13 +63,13 @@ Testing
   
   F1 Score = 99%
 
-## **********Fine Tuning of Entire Network************
+## Fine Tuning of Entire Network
 
 ###### VGG-16:
 
 No. of Layers fined tuned = All FC Layers + Conv Layers
 
-Validation
+- Validation
 
   Confusion matrix:
   
@@ -79,7 +79,7 @@ Validation
   
   F1 Score = 23%
   
-Testing
+- Testing
 
   Confusion Matrix:
   
@@ -91,7 +91,7 @@ Testing
   
 ###### ResNet18:
 
-Validation
+- Validation
 
   Confusion matrix:
   
@@ -101,7 +101,7 @@ Validation
   
   F1 Score = 89%
   
-Testing
+- Testing
 
   Confusion Matrix:
   
@@ -111,13 +111,13 @@ Testing
   
   F1 Score = 100%
   
-## ***********Fine Tuning of Few Layers**************
+## Fine Tuning of Few Layers
 
 ###### VGG16
 
 No. of Layers fined tuned = All FC Layers + Few Conv Layers
 
-Validation
+- Validation
 
   Confusion matrix:
   
@@ -127,7 +127,7 @@ Validation
   
   F1 Score = 49%
   
-Testing
+- Testing
 
   Confusion Matrix:
   
@@ -139,7 +139,7 @@ Testing
 
 ###### ResNet18:
 
-Validation
+- Validation
 
   Confusion matrix:
   
@@ -150,7 +150,7 @@ Validation
   
   F1 Score = 89%
   
-Testing
+- Testing
 
   Confusion Matrix:
 
