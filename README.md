@@ -23,8 +23,11 @@ Validation:
    ![](images/vgg1.png)
 
   Accuracy = 59%
+  
   F1 Score = 32%
+  
 Testing:
+
   Confusion Matrix:
     
    ![](images/vgg2.png)
