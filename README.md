@@ -35,7 +35,6 @@ Testing:
   
 ###### Res-Net18:
 
-Learning Rate = 0.0001
 
 No. of Layers fined tuned = All FC layers
 
