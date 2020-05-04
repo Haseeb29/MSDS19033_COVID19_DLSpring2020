@@ -170,10 +170,10 @@ https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
 
 - VGG-16
 
-  ![](images/simplevgg.jpg)
+  ![](images/simplevgg.PNG)
   
   
 - ResNet18
 
-  ![](images/rss6.png)
+  ![](images/simpleres.PNG)
   
