@@ -177,3 +177,12 @@ https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
 
   ![](images/simpleres.PNG)
   
+## Focal Loss
+
+- VGG-16
+
+  ![](images/focalvgg.PNG)
+
+- ResNet18
+
+  ![](images/focalres.PNG)
