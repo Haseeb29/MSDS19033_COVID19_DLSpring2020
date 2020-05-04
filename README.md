@@ -166,3 +166,14 @@ No. of Layers fined tuned = All FC Layers + Few Conv Layers
 ## DataSet
 https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
 
+## BCEWithLogitsLoss 
+
+- VGG-16
+
+  ![](images/simplevgg.jpg)
+  
+  
+- ResNet18
+
+  ![](images/rss6.png)
+  
