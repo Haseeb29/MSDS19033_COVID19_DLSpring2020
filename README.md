@@ -1,6 +1,7 @@
 # MSDS19033_COVID19_DLSpring2020
 This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
 
+## Part 1
 ## DataSet
 https://drive.google.com/open?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK&authuser=0
 
@@ -160,4 +161,8 @@ No. of Layers fined tuned = All FC Layers + Few Conv Layers
   
   F1 Score = 100%
   
+## Part 2
+
+## DataSet
+https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
 
